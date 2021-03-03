@@ -1,3 +1,18 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+.banner-container{
+    background-color: #99c2ff;
+}
+.banner-column{
+    background-color:#6b6b47;
+    border: 2px solid black;
+    border-style:dashed;
+}
+h1{
+    font-weight:bolder;
+}
+.about-container{
+    background-color: #100C25;
+    color:wheat;
+}
