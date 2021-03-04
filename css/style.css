@@ -17,17 +17,48 @@ h1{
     color:wheat;
 }
 .education-container{
-    background-color:royalblue;
+    background-color:whitesmoke;
 }
 .redheader{
     color:maroon;
     text-align:center;
     padding:20px;
+    padding-top: 40px;
     font-weight: bolder;
+    text-shadow:1px 1px black;
 }
 .circle{
-    background-color: mediumpurple;
     width:150px;
     height:150px;
     border-radius: 50%;
+}
+.card{
+    border: 2px dotted black;
+}
+.project-container{
+    background-color:teal;
+}
+.whiteheader{
+    color:whitesmoke;
+    text-align:center;
+    padding:20px;
+    padding-top: 40px;
+    font-weight: bolder;
+    text-shadow:2px 2px black;
+}
+.footer-container{
+    background-color: #100C25;
+}
+.circle2{
+    width:60px;
+    height:60px;
+    border-radius: 50%;
+    background-color: white;
+    display:inline-block;
+    font-size:40px;
+    text-align: center;
+    color:#1198F6;
+}
+.circle2:hover{
+    background-color: #3d3d29;
 }
