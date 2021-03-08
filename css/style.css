@@ -2,41 +2,50 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 .banner-container{
-    background-color: #99c2ff;
+    background-color: #ccf2ff;
 }
 .banner-column{
-    background-color:#6b6b47;
-    border: 2px solid black;
-    border-style:dashed;
+    border:2px solid wheat;
+    background-color: #00004d;
+    text-shadow: 3px 3px steelblue;
+
 }
 h1{
     font-weight:bolder;
 }
 .about-container{
     background-color: #100C25;
-    color:wheat;
+    color: #ccf3ff;
+    text-align: justify;
+    border:1px  dashed black;
 }
 .education-container{
     background-color:whitesmoke;
+    border:1px  solid black;
 }
 .redheader{
-    color:maroon;
+    color:#00004D;
     text-align:center;
-    padding:20px;
+    padding:15px;
     padding-top: 40px;
     font-weight: bolder;
-    text-shadow:1px 1px black;
+    text-shadow:2px 2px black;
+    font-size: 35px;
 }
 .circle{
     width:150px;
     height:150px;
     border-radius: 50%;
+    background-color: #1a8cff;
+    font-weight: bold;
 }
 .card{
-    border: 2px dotted black;
+    border: 2px dashed #00004D;
+    color:
 }
 .project-container{
     background-color:teal;
+    border:1px  dashed black;
 }
 .whiteheader{
     color:whitesmoke;
@@ -45,6 +54,10 @@ h1{
     padding-top: 40px;
     font-weight: bolder;
     text-shadow:2px 2px black;
+    font-size: 35px;
+}
+.gallery-container{
+    border:1px  solid black;
 }
 .footer-container{
     background-color: #100C25;
@@ -61,4 +74,72 @@ h1{
 }
 .circle2:hover{
     background-color: #3d3d29;
+}
+.projectbutton{
+    background-color:#b3ecff;
+    color:#00004d;
+border: 1px dotted black;
+padding:5px;
+border-radius: 1opx 10px;
+text-decoration: none;
+font-weight: bold;
+
+
+}
+.projectbutton:hover{
+    background-color:white;
+color:#00001a;
+    }
+
+  .bodddder  {
+       border:3px solid #99e6ff;
+    }
+    #h3roles{
+        text-shadow: 2px 2px steelblue; ;
+    }
+   .h4degrees{
+        color:#3377ff;
+
+    }
+    .fontbolder{
+        font-weight:bolder;
+    }
+.aligner{
+    text-align: justify;
+}
+.projecttitle{
+    color:#00004D;
+    font-weight: bold;
+    font-size: 20px;
+    padding:3px;
+    padding-bottom: 5px;
+}
+.projectdate{
+    color: black;
+    font-weight: bold;
+
+}
+.lifestages{
+    color:black;
+    text-align:justify;
+    font-weight: bold;
+}
+.sclclg{
+    text-decoration: none;
+}
+.phonenmbr{
+    color:#ccf3ff;
+    font-size:25px;
+    margin-left: 180px;
+}
+.emaill{
+    color:#ccf3ff;
+    font-size:25px;
+}
+.bannerborder{
+    border-left: 2px solid wheat;
+    border-right: 2px solid wheat;
+    /* border-top:2px solid wheat;
+    border-bottom: 2px solid wheat; */
+
 }
