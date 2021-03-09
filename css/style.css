@@ -93,6 +93,9 @@ color:#00001a;
 
   .bodddder  {
        border:3px solid #99e6ff;
+       border-radius: 7px;
+       margin-top:50px;
+      
     }
     #h3roles{
         text-shadow: 2px 2px steelblue; ;
@@ -130,15 +133,16 @@ color:#00001a;
 .phonenmbr{
     color:#ccf3ff;
     font-size:25px;
-    margin-left: 180px;
+    margin-left: 100px;
 }
 .emaill{
     color:#ccf3ff;
     font-size:25px;
 }
 .bannerborder{
-    border-left: 2px solid wheat;
-    border-right: 2px solid wheat;
+    border-left: 3px solid wheat;
+    border-right: 3px solid wheat;
+    border-radius: 8px;
     /* border-top:2px solid wheat;
     border-bottom: 2px solid wheat; */
 
